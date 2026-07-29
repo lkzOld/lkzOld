@@ -5,7 +5,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/LkzOld/)
 
 
-![Lkz GitHub stats](![GitHub Stats](https://ghstats.dev/api/card?username=lkzOld&theme=dracula)
+![Lkz GitHub stats] (https://ghstats.dev/api/card?username=lkzOld&theme=dracula)
 
 ### Tecnologias que eu uso no meu dia.
 
