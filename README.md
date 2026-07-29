@@ -1,36 +1,38 @@
 <h1 align="center">Olá! 👋 Eu sou o Lucas Vieira</h1>
 
 <p align="center">
-Desenvolvedor Web em formação 💻 <br>
-Apaixonado por tecnologia, programação e jogos eletrônicos.
+💻 Desenvolvedor Web em formação <br>
+🚀 Em transição de carreira para a área de Tecnologia
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/Lucas_.Vieira">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/Lucas_.Vieira" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://twitch.tv/Lkz_Tv">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  <a href="https://twitch.tv/Lkz_Tv" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
   </a>
 
-  <a href="https://fb.com/lucaszyon">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://fb.com/lucaszyon" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 
-  <a href="https://steamcommunity.com/id/LkzOld/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  <a href="https://steamcommunity.com/id/LkzOld/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkzOld&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkzOld&layout=compact&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lkzOld&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkzOld&layout=compact&langs_count=8&theme=dracula"/>
+
 </p>
 
 ---
@@ -39,55 +41,58 @@ Apaixonado por tecnologia, programação e jogos eletrônicos.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 </p>
 
 ---
 
-## 📌 Projeto em destaque
+## 📌 Projetos
 
 ### 💬 DevConnect
 
-Uma rede social para desenvolvedores criada para praticar HTML, CSS e JavaScript.
+> Rede social para desenvolvedores criada para praticar HTML, CSS e JavaScript.
 
-**Status:** 🚧 Em desenvolvimento
+🚧 **Em desenvolvimento**
 
-Em breve contará com:
+Funcionalidades planejadas:
 
-- 👤 Sistema de perfis
+- 👤 Perfil de usuário
+- 📰 Feed de publicações
 - ❤️ Curtidas
 - 💬 Comentários
-- 📱 Layout responsivo
 - 🌙 Modo escuro
-- 🔐 Login e cadastro
-- ⚡ Integração com banco de dados
+- 📱 Responsividade
+- 🔐 Login e Cadastro
+- ⚡ Back-end futuramente
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudando Desenvolvimento Web
-- 💼 Em transição de carreira para a área de Tecnologia
-- 🚀 Construindo projetos para meu portfólio
-- 🎮 Apaixonado por games e tecnologia
+- 🎓 Estudando Desenvolvimento Web.
+- 💼 Em transição de carreira para a área de Tecnologia.
+- 🚀 Construindo projetos para meu portfólio.
+- 🎮 Apaixonado por programação, tecnologia e jogos eletrônicos.
 
 ---
 
 <p align="center">
+
 ⭐ Obrigado por visitar meu perfil!
+
 </p>
