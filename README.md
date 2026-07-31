@@ -29,7 +29,7 @@
 
 <p align="center">
 
-![lkzOld Stats](https://ghstats.dev/api/card?username=lkzOld&theme=dracula)
+![lkzOld Stats](https://ghstats.dev/api/card?username=dev-lucasvieira&theme=dracula)
 
 </p>
 
